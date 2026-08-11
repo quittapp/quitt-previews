@@ -1,3 +1,2 @@
 User-agent: *
-Allow: /
-Sitemap: https://quitt.info/sitemap-index.xml
+Disallow: /
